@@ -1,0 +1,23 @@
+.amanha{
+    color: darkred;
+}
+
+.hoje{
+    color: darkblue;
+}
+
+.link {
+    text-decoration: none;
+}
+
+h2 .link{
+    color: seagreen;
+}
+
+p {
+    font-size: 20px;
+}
+
+html {
+    font-family: Arial;
+}
